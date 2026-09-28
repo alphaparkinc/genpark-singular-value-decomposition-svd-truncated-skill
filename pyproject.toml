@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-singular-value-decomposition-svd-truncated-skill"
+version = "1.0.0"
+description = "Power iteration Truncated SVD for low-rank matrix approximation and latent embeddings"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/alphaparkinc/genpark-singular-value-decomposition-svd-truncated-skill.git"
