@@ -1,0 +1,9 @@
+{
+  "name": "genpark-singular-value-decomposition-svd-truncated-skill",
+  "version": "1.0.0",
+  "description": "Power iteration Truncated SVD for low-rank matrix approximation and latent embeddings",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
