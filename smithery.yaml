@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-singular-value-decomposition-svd-truncated-skill
+service:
+  name: genpark-singular-value-decomposition-svd-truncated-skill
+  command: python
+  args:
+    - mcp_server.py
